@@ -101,7 +101,7 @@ https://codepen.io/janecyyu/pen/ExjjLOY?editors=1100
         }
 
     22. What is a parent child selector? When would this be useful?
-        The partent selector will style all of the code which in the the parent selesctor in the same time, if you want something different, just use child selector to change some detail. It's saving code and easy to read.
+        The parent selector will style all of the code which in the the parent selector in the same time, if you want something different, just use child selector to change some detail. It's saving code and easy to read.
 
     23. How do you select all links within a div with the class of sidebar?
         .sidebar a{
@@ -109,7 +109,7 @@ https://codepen.io/janecyyu/pen/ExjjLOY?editors=1100
         }
 
     24. What is a pseudo selector?
-        That selects elements that are in a specific state, for example, the elements may become differentwhen they are being hovered over by the mouse pointer.
+        That selects elements that are in a specific state, for example, the elements may become different when they are being hovered over by the mouse pointer.
 
     25. What do we use the change the spacing between lines?
         line-height
@@ -144,9 +144,9 @@ https://codepen.io/janecyyu/pen/ExjjLOY?editors=1100
         Tracking every changes by each contributor and helping prevent concurrent work from conflicting.
 
     35. How often should I commit to github?
-        Everytime I changed something.
+        Every time I changed something.
 
-    36. What is the command we would use to push our repo up to github?
+    36. What is the command we would use to push our repo up to GitHub?
         git push -u origin branch
 
     37. Walk me through Lambda's git flow.
